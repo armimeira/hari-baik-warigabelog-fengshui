@@ -61,4 +61,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
-# hari-baik-warigabelog-fengshui
+# Website Ramalan Hari Baik berdasarkan Wariga Belog & Fengshui
+Website ini diperuntukan untuk pengguna mengetahui bagaimana ramalan hari baik/buruknya dalam mengerjakan suatu hal (hari baik menikah, hari baik pindah rumah, hari baik bepergian) yang didasarkan pada perhitungan wariga belog kepercayaan di Bali serta Perhitungan Fengshui dari Cina.
